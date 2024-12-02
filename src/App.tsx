@@ -50,7 +50,7 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-white dark:bg-gray-900">
-      <div className="max-w-4xl mx-auto px-6 py-12">
+      <div className="max-w-4xl mx-auto px-12 py-24">
         <div className="flex justify-between items-center mb-6">
           <p className="text-gray-600 dark:text-gray-400 italic">
             Creado por Jorge Guillén
@@ -58,7 +58,7 @@ export default function App() {
           <ThemeToggle />
         </div>
         
-        <div className="space-y-16">
+        <div className="space-y-24">
           <div className="text-center space-y-4">
             <h1 className="text-4xl font-bold bg-gradient-to-r from-purple-600 via-pink-500 to-blue-500 text-transparent bg-clip-text">
               ¿Qué harías si un solo post pudiera generar 10 piezas de contenido para tus redes?
