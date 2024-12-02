@@ -51,7 +51,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-white dark:bg-gray-900">
       <div className="max-w-4xl mx-auto px-6 py-12">
-        <div className="flex justify-end mb-6">
+        <div className="flex justify-between items-center mb-6">
         <p className="text-gray-600 dark:text-gray-400 italic">
             Creado por Jorge Guillén
           </p>
