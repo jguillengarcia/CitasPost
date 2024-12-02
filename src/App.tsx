@@ -54,7 +54,7 @@ export default function App() {
         <div className="flex justify-end mb-6">
         <p className="text-gray-600 dark:text-gray-400 italic">
             Creado por Jorge Guillén
-          </p>
+        </p>
           <ThemeToggle />
         </div>
         
